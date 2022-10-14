@@ -1,0 +1,13 @@
+.buttonStyle{
+
+    background-color: blue;
+    color: white;
+}
+
+.divStyle{
+
+    margin: 10px;
+    width: 400px;
+    height: 150px;
+    background-color: red;
+}
